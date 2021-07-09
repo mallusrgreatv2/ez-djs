@@ -1,0 +1,24 @@
+{
+  "name": "ezdjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallusrgreatv2/ez-djs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mallusrgreatv2/ez-djs/issues"
+  },
+  "homepage": "https://github.com/mallusrgreatv2/ez-djs#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3"
+  }
+}
